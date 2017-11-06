@@ -1,0 +1,9 @@
+1 - CS
+2 - Mortal Kombat
+3 - Call of Duty
+4 - BF
+5 - Assasins's Creed
+7 - Resident Evil
+8 - FIFA
+9 - Dead Space
+10 - LoL
